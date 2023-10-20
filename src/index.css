@@ -54,7 +54,7 @@ button {
 
 .trash:focus,
 .trash:hover {
-  filger: brightness(120%);
+  filter: brightness(120%);
 }
 
 form {
